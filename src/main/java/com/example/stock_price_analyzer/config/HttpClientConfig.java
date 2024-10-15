@@ -1,4 +1,4 @@
-package com.example.stock_price_analyzer;
+package com.example.stock_price_analyzer.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

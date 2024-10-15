@@ -1,6 +1,6 @@
 package com.example.stock_price_analyzer.controller;
 
-import com.example.stock_price_analyzer.StockApiClient;
+import com.example.stock_price_analyzer.client.StockApiClient;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

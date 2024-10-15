@@ -1,4 +1,4 @@
-package com.example.stock_price_analyzer;
+package com.example.stock_price_analyzer.client;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Configuration;
